@@ -1,6 +1,8 @@
 # Sailing_XaJO
 Este es el proyecto de Sailing hecho por XaJo.
 
-Miembros: 
+Miembros:
+
 Xavi 
+
 Josep Oriol
