@@ -55,10 +55,10 @@
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-15" value="Reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="410" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-16" value="Formulario de reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-16" value="Confirmmar reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-17" value="Confirmmar reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-17" value="Enviar reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="414" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
