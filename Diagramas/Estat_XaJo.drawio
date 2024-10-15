@@ -64,11 +64,17 @@
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-17" value="Enviar reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="414" y="620" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-19" target="x7MdzEhbPjzZ_axmg5Fu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-19" value="Confirmmar reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-21" value="Pago aprovado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="410" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="405" y="930" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
