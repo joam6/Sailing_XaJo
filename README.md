@@ -1,0 +1,6 @@
+# PROYECTO SAILING - XAJO
+
+# MIMEMBROS:
+Xavi 
+
+Josep Oriol
