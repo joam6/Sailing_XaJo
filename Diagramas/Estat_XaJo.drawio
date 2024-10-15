@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Pàgina-1" id="iYUXUyXI3bTQenoI2wBv">
-    <mxGraphModel dx="1061" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-2" target="x7MdzEhbPjzZ_axmg5Fu-8">
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-2" target="x7MdzEhbPjzZ_axmg5Fu-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-2" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=9;" vertex="1" parent="1">
           <mxGeometry x="410" y="10" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-3" value="Detalles del barco" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-4" target="x7MdzEhbPjzZ_axmg5Fu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-4" value="Formulario de reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-3" target="x7MdzEhbPjzZ_axmg5Fu-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="460" as="sourcePoint" />
-            <mxPoint x="460" y="490" as="targetPoint" />
+            <mxPoint x="418" y="550" as="sourcePoint" />
+            <mxPoint x="458" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-8" target="x7MdzEhbPjzZ_axmg5Fu-10">
@@ -32,49 +32,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-8" value="Seleccionar tipo de viaje" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-10" target="x7MdzEhbPjzZ_axmg5Fu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-10" value="Buscar Barcos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Seleccionar viaje en grupo&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="278" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Seleccionar viaje privado&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="474" y="200" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-13" value="Inicio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="472" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-14" value="Seleccionar barco" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="410" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="408" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-15" value="Reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="410" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="408" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-16" target="x7MdzEhbPjzZ_axmg5Fu-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-16" value="Confirmar reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-17" value="Enviar reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="414" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="412" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-19" target="x7MdzEhbPjzZ_axmg5Fu-22">
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-19" target="x7MdzEhbPjzZ_axmg5Fu-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-19" value="Generar resguardo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-21" value="Pago aprovado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="410" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="408" y="830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="405" y="900" width="30" height="30" as="geometry" />
+          <mxGeometry x="403" y="1120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-24" target="x7MdzEhbPjzZ_axmg5Fu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-24" value="Pantalla principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-27" target="x7MdzEhbPjzZ_axmg5Fu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-27" value="Pantalla principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
