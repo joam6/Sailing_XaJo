@@ -11,13 +11,13 @@
           <mxGeometry x="410" y="10" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-3" value="Detalles del barco" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-4" target="x7MdzEhbPjzZ_axmg5Fu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-4" value="Formulario de reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-3" target="x7MdzEhbPjzZ_axmg5Fu-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,7 +44,7 @@
           <mxGeometry x="280" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Seleccionar viaje privado&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="474" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-13" value="Inicio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="400" y="50" width="60" height="30" as="geometry" />
@@ -55,11 +55,20 @@
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-15" value="Reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="410" y="500" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-16" target="x7MdzEhbPjzZ_axmg5Fu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-16" value="Confirmmar reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-17" value="Enviar reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="414" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-19" value="Confirmmar reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-21" value="Pago aprovado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="410" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
