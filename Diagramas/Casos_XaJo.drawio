@@ -73,6 +73,12 @@
         <mxCell id="aUWjzx1JpL5L-3wllFqf-33" value="Filtrar por categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="60" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aUWjzx1JpL5L-3wllFqf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="aUWjzx1JpL5L-3wllFqf-35" target="aUWjzx1JpL5L-3wllFqf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUWjzx1JpL5L-3wllFqf-35" value="Recibir confirmación de pago" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
