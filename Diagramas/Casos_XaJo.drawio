@@ -67,9 +67,6 @@
         <mxCell id="aUWjzx1JpL5L-3wllFqf-28" value="Responder a comentarios de usuarios." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aUWjzx1JpL5L-3wllFqf-29" value="Deja comentarios y reseñas." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
