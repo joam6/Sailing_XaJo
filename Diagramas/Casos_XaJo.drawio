@@ -7,6 +7,9 @@
         <mxCell id="aUWjzx1JpL5L-3wllFqf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9gDoXs-om2xkna2XxOo-1" target="aUWjzx1JpL5L-3wllFqf-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aUWjzx1JpL5L-3wllFqf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9gDoXs-om2xkna2XxOo-1" target="aUWjzx1JpL5L-3wllFqf-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W9gDoXs-om2xkna2XxOo-1" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="40" height="80" as="geometry" />
         </mxCell>
@@ -55,7 +58,7 @@
         <mxCell id="aUWjzx1JpL5L-3wllFqf-26" value="Gestionar el contenido del sitio." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aUWjzx1JpL5L-3wllFqf-27" value="&amp;nbsp; Inscribirse en&amp;nbsp; eventos." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aUWjzx1JpL5L-3wllFqf-27" value="Agregar editar o eliminar eventos." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aUWjzx1JpL5L-3wllFqf-28" value="Realitzar pagaments." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
