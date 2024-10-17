@@ -11,13 +11,13 @@
           <mxGeometry x="410" y="30" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-3" value="Detalles del barco" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-4" target="x7MdzEhbPjzZ_axmg5Fu-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-4" value="Formulario de reserva" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-3" target="x7MdzEhbPjzZ_axmg5Fu-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -28,20 +28,17 @@
         <mxCell id="y_Qhik4XPTp8zQZSwxhd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-8" target="x7MdzEhbPjzZ_axmg5Fu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-8" value="Seleccionar tipo de viaje" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-8" value="Seleccionar&amp;nbsp;&lt;div&gt;viaje&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-10" target="x7MdzEhbPjzZ_axmg5Fu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-10" value="Buscar Barcos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-10" value="Detalles del barco" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7MdzEhbPjzZ_axmg5Fu-14" value="Seleccionar barco" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="408" y="310" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-15" value="Reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="408" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="408" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-16" target="x7MdzEhbPjzZ_axmg5Fu-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,10 +47,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-16" value="Confirmar reserva" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-17" value="Enviar reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="412" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="409" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7MdzEhbPjzZ_axmg5Fu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x7MdzEhbPjzZ_axmg5Fu-19" target="x7MdzEhbPjzZ_axmg5Fu-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fzfvFWEfPwEEM_tC4q9M-2" value="Cancelar reserva" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fzfvFWEfPwEEM_tC4q9M-6" value="Volver a reserva" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="562" y="490" width="90" height="30" as="geometry" />
