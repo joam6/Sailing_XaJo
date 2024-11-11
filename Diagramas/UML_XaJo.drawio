@@ -107,7 +107,7 @@
           <mxGeometry y="108" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-36" value="ReservaCancelada" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="280" width="160" height="110" as="geometry" />
+          <mxGeometry x="890" y="142" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-37" value="+ IdReserva :int&lt;br&gt;+ FechaCancelada :date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-36" vertex="1">
           <mxGeometry y="26" width="160" height="34" as="geometry" />
@@ -156,6 +156,14 @@
         </mxCell>
         <mxCell id="GFX0a4tl2zZszdzhHsaF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lixka0bkfkfRRr0ha4-1-41" target="Lixka0bkfkfRRr0ha4-1-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFX0a4tl2zZszdzhHsaF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lixka0bkfkfRRr0ha4-1-32" target="Lixka0bkfkfRRr0ha4-1-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="280" />
+              <mxPoint x="1087" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
