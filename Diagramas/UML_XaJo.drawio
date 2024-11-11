@@ -223,7 +223,7 @@
         <mxCell id="Lixka0bkfkfRRr0ha4-1-44" value="Tienda" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="320" width="160" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="Lixka0bkfkfRRr0ha4-1-45" value="+ IdExperiencia&lt;br&gt;+ FechaHora&lt;br&gt;+ Descripcion&lt;br&gt;+ Modalidad&lt;br&gt;+ Precio&lt;br&gt;+ IdCategoria&lt;br&gt;+ Personas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-44" vertex="1">
+        <mxCell id="Lixka0bkfkfRRr0ha4-1-45" value="+ IdExperiencia : int&lt;br&gt;+ FechaHora&lt;br&gt;+ Descripcion&lt;br&gt;+ Modalidad&lt;br&gt;+ Precio : Float&lt;br&gt;+ IdCategoria&lt;br&gt;+ Personas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-44" vertex="1">
           <mxGeometry y="26" width="160" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Lixka0bkfkfRRr0ha4-1-44" vertex="1">
