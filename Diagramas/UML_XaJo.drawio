@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lixka0bkfkfRRr0ha4-1-3" value="Login" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="490" width="170" height="140" as="geometry" />
+          <mxGeometry x="465" y="322" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-4" value="+ Username :String&lt;br&gt;- password :String&lt;div&gt;- isAdmin :int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-3" vertex="1">
           <mxGeometry y="26" width="170" height="54" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-15" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="158" width="160" height="94" as="geometry" />
+          <mxGeometry x="310" y="158" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-16" value="&lt;div&gt;+ UsernameA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:String&lt;/span&gt;&lt;/div&gt;- isAdmin : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-15" vertex="1">
           <mxGeometry y="26" width="160" height="34" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-19" value="Client" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="160" width="160" height="100" as="geometry" />
+          <mxGeometry x="640" y="158" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-20" value="&lt;div&gt;+ UsernameC&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:String&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-19" vertex="1">
           <mxGeometry y="26" width="160" height="24" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry y="118" width="170" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-31" value="Añadir usuario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="150" width="160" height="134" as="geometry" />
+          <mxGeometry x="710" y="510" width="160" height="134" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-32" value="+ Username :String&lt;br&gt;+ Nombre :String&lt;br&gt;+ Telefono : Float&lt;br&gt;+ Pasword :String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-31" vertex="1">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry y="98" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-44" value="Tienda" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="430" width="160" height="174" as="geometry" />
+          <mxGeometry x="490" y="550" width="160" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-45" value="+ IdExperiencia : int&lt;br&gt;+ FechaHora :Date&lt;br&gt;+ Descripcion :String&lt;br&gt;+ Modalidad :int&lt;br&gt;+ Precio : Float&lt;br&gt;+ IdCategoria :int&lt;br&gt;+ Personas :int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-44" vertex="1">
           <mxGeometry y="26" width="160" height="114" as="geometry" />
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-47" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-44" vertex="1">
           <mxGeometry y="148" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GFX0a4tl2zZszdzhHsaF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lixka0bkfkfRRr0ha4-1-16" target="Lixka0bkfkfRRr0ha4-1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFX0a4tl2zZszdzhHsaF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lixka0bkfkfRRr0ha4-1-20" target="Lixka0bkfkfRRr0ha4-1-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
