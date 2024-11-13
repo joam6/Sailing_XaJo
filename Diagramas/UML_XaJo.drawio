@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-3" value="Login" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="402" width="170" height="140" as="geometry" />
+          <mxGeometry x="430" y="420" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-4" value="+ Username :String&lt;br&gt;- password :String&lt;div&gt;- isAdmin :int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-3" vertex="1">
           <mxGeometry y="26" width="170" height="54" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-23" value="Reserva" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="640" width="160" height="114" as="geometry" />
+          <mxGeometry x="670" y="630" width="160" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-24" value="+ IdReserva :int&lt;br&gt;+ IdExperiencia :int&lt;br&gt;+ Npersonas :int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-23" vertex="1">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-27" value="Notificacion" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="490" width="170" height="160" as="geometry" />
+          <mxGeometry x="1060" y="450" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-28" value="+ RealizarReseva :String&lt;br&gt;+ UsuariAñadido :String&lt;br&gt;+ UsuarioModificado :String&lt;br&gt;+ Disponibilidad :String&lt;br&gt;+ ReservaCancelada :String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-27" vertex="1">
           <mxGeometry y="26" width="170" height="84" as="geometry" />
@@ -93,6 +93,14 @@
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-30" value="+ Mostrar mensaje ()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-27" vertex="1">
           <mxGeometry y="118" width="170" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="5QXQJG4AQmBrMs8_oDaH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lixka0bkfkfRRr0ha4-1-31" target="Lixka0bkfkfRRr0ha4-1-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="360" />
+              <mxPoint x="1083" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-31" value="Añadir usuario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="198" width="160" height="134" as="geometry" />
@@ -119,7 +127,7 @@
           <mxGeometry y="68" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-40" value="Disponibilidad" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="810" width="160" height="124" as="geometry" />
+          <mxGeometry x="640" y="820" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-41" value="+ IdExperiencia :int&lt;br&gt;+ Fecha&lt;span style=&quot;background-color: initial;&quot;&gt;Hora :Date&lt;/span&gt;&lt;div&gt;+ Npersonas :int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-40" vertex="1">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
@@ -131,7 +139,7 @@
           <mxGeometry y="98" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-44" value="Tienda" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="600" width="160" height="174" as="geometry" />
+          <mxGeometry x="435" y="600" width="160" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-45" value="+ IdExperiencia : int&lt;br&gt;+ FechaHora :Date&lt;br&gt;+ Descripcion :String&lt;br&gt;+ Modalidad :int&lt;br&gt;+ Precio : Float&lt;br&gt;+ IdCategoria :int&lt;br&gt;+ Personas :int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-44" vertex="1">
           <mxGeometry y="26" width="160" height="114" as="geometry" />
@@ -156,16 +164,6 @@
         </mxCell>
         <mxCell id="GFX0a4tl2zZszdzhHsaF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lixka0bkfkfRRr0ha4-1-41" target="Lixka0bkfkfRRr0ha4-1-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GFX0a4tl2zZszdzhHsaF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.506;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Lixka0bkfkfRRr0ha4-1-34" target="Lixka0bkfkfRRr0ha4-1-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="333" />
-              <mxPoint x="80" y="360" />
-              <mxPoint x="1058" y="360" />
-            </Array>
-            <mxPoint x="80" y="340" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="GFX0a4tl2zZszdzhHsaF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.551;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Lixka0bkfkfRRr0ha4-1-41" target="Lixka0bkfkfRRr0ha4-1-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
