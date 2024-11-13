@@ -28,7 +28,7 @@
         <mxCell id="Lixka0bkfkfRRr0ha4-1-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Lixka0bkfkfRRr0ha4-1-7" vertex="1">
           <mxGeometry y="80" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Lixka0bkfkfRRr0ha4-1-10" value="+ persona(nombre password)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-7" vertex="1">
+        <mxCell id="Lixka0bkfkfRRr0ha4-1-10" value="+ persona(nombre, password)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-7" vertex="1">
           <mxGeometry y="88" width="180" height="32" as="geometry" />
         </mxCell>
         <mxCell id="GFX0a4tl2zZszdzhHsaF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="Lixka0bkfkfRRr0ha4-1-15" target="Lixka0bkfkfRRr0ha4-1-8" edge="1">
