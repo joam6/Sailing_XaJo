@@ -37,7 +37,7 @@
         <mxCell id="Lixka0bkfkfRRr0ha4-1-15" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="198" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lixka0bkfkfRRr0ha4-1-16" value="&lt;div&gt;+ UsernameA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:String&lt;/span&gt;&lt;/div&gt;- isAdmin : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-15" vertex="1">
+        <mxCell id="Lixka0bkfkfRRr0ha4-1-16" value="&lt;div&gt;+ UsernameA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:String&lt;/span&gt;&lt;/div&gt;- isAdmin : int = 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-15" vertex="1">
           <mxGeometry y="26" width="220" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Lixka0bkfkfRRr0ha4-1-15" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="Lixka0bkfkfRRr0ha4-1-19" value="Client" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="198" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Lixka0bkfkfRRr0ha4-1-20" value="&lt;div&gt;+ UsernameC&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:String&lt;br&gt;-isAdmin int =0&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-19" vertex="1">
+        <mxCell id="Lixka0bkfkfRRr0ha4-1-20" value="&lt;div&gt;+ UsernameC&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:String&lt;br&gt;-isAdmin int = 0&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Lixka0bkfkfRRr0ha4-1-19" vertex="1">
           <mxGeometry y="26" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Lixka0bkfkfRRr0ha4-1-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Lixka0bkfkfRRr0ha4-1-19" vertex="1">
