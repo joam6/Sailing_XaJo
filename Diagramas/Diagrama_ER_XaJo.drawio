@@ -126,7 +126,7 @@
             <mxRectangle width="220" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BuEpBqLIDgKgEN5BL7GY-6" value="RESERVAR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BuEpBqLIDgKgEN5BL7GY-6" value="&lt;div&gt;GENERAR&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="390" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
