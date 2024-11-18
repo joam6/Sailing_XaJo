@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="297" dy="158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1311" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,10 +89,10 @@
         <mxCell id="BuEpBqLIDgKgEN5BL7GY-6" value="&lt;div&gt;Reserva&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="390" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BuEpBqLIDgKgEN5BL7GY-11" value="(0,M&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BuEpBqLIDgKgEN5BL7GY-11" value="(1,N&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="228" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BuEpBqLIDgKgEN5BL7GY-12" value="(0,N&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BuEpBqLIDgKgEN5BL7GY-12" value="(1,N&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="650" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BuEpBqLIDgKgEN5BL7GY-35" value="&lt;span style=&quot;font-weight: 700; text-align: left; text-wrap-mode: nowrap; text-decoration-line: underline;&quot;&gt;id_Reserva int NOT NULL&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="BuEpBqLIDgKgEN5BL7GY-50" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;id_Experiencia int NOT NULL&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="485" y="440" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BuEpBqLIDgKgEN5BL7GY-51" value="(N,M&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="415" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
