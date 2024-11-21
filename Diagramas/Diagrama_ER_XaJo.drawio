@@ -105,10 +105,10 @@
           <mxGeometry x="605" y="430" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BuEpBqLIDgKgEN5BL7GY-43" value="" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="605" y="510" width="35" height="30" as="geometry" />
+          <mxGeometry x="605" y="510" width="35" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BuEpBqLIDgKgEN5BL7GY-45" value="&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;n_Personas int&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;(2)&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;NOT NULL&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="640" y="510" width="195" height="30" as="geometry" />
+        <mxCell id="BuEpBqLIDgKgEN5BL7GY-45" value="&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;n_Personas int&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;(2)&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;NOT NULL&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap: nowrap;&quot;&gt;Fecha_hora date() NOT NULL&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; text-wrap: nowrap;&quot;&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="640" y="510" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BuEpBqLIDgKgEN5BL7GY-46" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;FK2&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="605" y="480" width="35" height="30" as="geometry" />
@@ -152,7 +152,7 @@
             <mxRectangle width="30" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHueLTW2PZ0l7G09IQr8-8" value="Reserva_cancelada char(SI|NO)&#xa;Nombre char(15) NOT NULL&#xa;Fecha_hora date() NOT NULL&#xa;Tipo_Accion char(10) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="kHueLTW2PZ0l7G09IQr8-6">
+        <mxCell id="kHueLTW2PZ0l7G09IQr8-8" value="Reserva_cancelada char(SI|NO)&#xa;Nombre char(15) NOT NULL&#xa;Tipo_Accion char(10) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="kHueLTW2PZ0l7G09IQr8-6">
           <mxGeometry x="30" width="220" height="100" as="geometry">
             <mxRectangle width="220" height="100" as="alternateBounds" />
           </mxGeometry>
